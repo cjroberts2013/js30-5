@@ -1,0 +1,19 @@
+{
+  "name": "js30-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devserver": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjroberts2013/js30-5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjroberts2013/js30-5/issues"
+  },
+  "homepage": "https://github.com/cjroberts2013/js30-5#readme"
+}
